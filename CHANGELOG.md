@@ -1,3 +1,52 @@
+## [2.32.1](https://github.com/revanced/revanced-patches/compare/v2.32.0...v2.32.1) (2022-08-04)
+
+
+### Bug Fixes
+
+* incorrect compatibilty attribute ([#296](https://github.com/revanced/revanced-patches/issues/296)) ([0ab3e97](https://github.com/revanced/revanced-patches/commit/0ab3e9724157c628555964273c6b65f9f48f9664))
+
+# [2.32.0](https://github.com/revanced/revanced-patches/compare/v2.31.0...v2.32.0) (2022-08-04)
+
+
+### Features
+
+* `promo-code-unlock` patch ([#292](https://github.com/revanced/revanced-patches/issues/292)) ([d5df2e6](https://github.com/revanced/revanced-patches/commit/d5df2e68f47cbb3d374b8ce24769872959014051))
+
+# [2.31.0](https://github.com/revanced/revanced-patches/compare/v2.30.1...v2.31.0) (2022-08-03)
+
+
+### Features
+
+* remove `force-vp9-codec` patch ([#287](https://github.com/revanced/revanced-patches/issues/287)) ([e428978](https://github.com/revanced/revanced-patches/commit/e42897801b20e7439969954753e2c15c85eb41b5))
+
+## [2.30.1](https://github.com/revanced/revanced-patches/compare/v2.30.0...v2.30.1) (2022-08-03)
+
+
+### Bug Fixes
+
+* migrate to new patcher api ([f43446e](https://github.com/revanced/revanced-patches/commit/f43446ed189e583302fcd899f5eb7517f2a77144))
+
+# [2.30.0](https://github.com/revanced/revanced-patches/compare/v2.29.0...v2.30.0) (2022-08-03)
+
+
+### Bug Fixes
+
+* incorrect fingerprint version [skip ci] ([f8c62ae](https://github.com/revanced/revanced-patches/commit/f8c62ae16b088ff6d0e96a4ef62dc707cd83beb9))
+* rollback to `Dependencies` annotation ([36a2ae8](https://github.com/revanced/revanced-patches/commit/36a2ae886c63f1d22bb1cca9e7110af6c3f6f2d3))
+
+
+### Features
+
+* set the correct theme of the settings screen ([70d850c](https://github.com/revanced/revanced-patches/commit/70d850cf295d306b0de9419efe6a4bbf3857d3a0))
+
+# [2.29.0](https://github.com/revanced/revanced-patches/compare/v2.28.2...v2.29.0) (2022-08-02)
+
+
+### Features
+
+* add "Application Icon Path" option to branding ([1748d1e](https://github.com/revanced/revanced-patches/commit/1748d1e5badf61213d793ff7ae1d090ea2ea82f0))
+* add "Application Name" option to branding and move renaming to CustomBrandingPatch.kt ([8dafe05](https://github.com/revanced/revanced-patches/commit/8dafe05b2c5e2b0291d46b02717d910721673712))
+
 ## [2.28.2](https://github.com/revanced/revanced-patches/compare/v2.28.1...v2.28.2) (2022-08-02)
 
 
