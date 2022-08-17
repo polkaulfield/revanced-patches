@@ -1,3 +1,68 @@
+# [2.38.0](https://github.com/revanced/revanced-patches/compare/v2.37.0...v2.38.0) (2022-08-17)
+
+
+### Features
+
+* bump YouTube patches to `v17.32.35` ([#347](https://github.com/revanced/revanced-patches/issues/347)) ([5292a0e](https://github.com/revanced/revanced-patches/commit/5292a0e973953225f94eed887a5d8f1ead17bb97))
+
+# [2.37.0](https://github.com/revanced/revanced-patches/compare/v2.36.2...v2.37.0) (2022-08-15)
+
+
+### Features
+
+* ˋpflotsh-ecmwf-subscription-unlockˋ patch ([#332](https://github.com/revanced/revanced-patches/issues/332)) ([ae2a1d8](https://github.com/revanced/revanced-patches/commit/ae2a1d8362e388032c3521101ff60698c4af1583))
+
+## [2.36.2](https://github.com/revanced/revanced-patches/compare/v2.36.1...v2.36.2) (2022-08-14)
+
+
+### Bug Fixes
+
+* disable cast modules in YouTube Music ([#337](https://github.com/revanced/revanced-patches/issues/337)) ([86eaba8](https://github.com/revanced/revanced-patches/commit/86eaba8248100987f46540a224956099bcf9da2c))
+
+## [2.36.1](https://github.com/revanced/revanced-patches/compare/v2.36.0...v2.36.1) (2022-08-14)
+
+
+### Bug Fixes
+
+* add missing switch for tablet mini-player ([b824d35](https://github.com/revanced/revanced-patches/commit/b824d35960df9e99c2a2d248356c3c9342cfe130))
+
+# [2.36.0](https://github.com/revanced/revanced-patches/compare/v2.35.0...v2.36.0) (2022-08-14)
+
+
+### Features
+
+* `swipe-controls` override volume button behaviour ([#285](https://github.com/revanced/revanced-patches/issues/285)) ([69465f3](https://github.com/revanced/revanced-patches/commit/69465f3a9934973a2449605a248a462510e10ff6))
+
+# [2.35.0](https://github.com/revanced/revanced-patches/compare/v2.34.0...v2.35.0) (2022-08-14)
+
+
+### Features
+
+* `tiktok-ads` patch ([#335](https://github.com/revanced/revanced-patches/issues/335)) ([81bef57](https://github.com/revanced/revanced-patches/commit/81bef57742bfaefcdfe02fd290cca6923341149a))
+
+# [2.34.0](https://github.com/revanced/revanced-patches/compare/v2.33.2...v2.34.0) (2022-08-14)
+
+
+### Features
+
+* `tablet-mini-player` patch ([dae41f1](https://github.com/revanced/revanced-patches/commit/dae41f1c59d26d00b1ba821dbe1521e68226f47c))
+
+## [2.33.2](https://github.com/revanced/revanced-patches/compare/v2.33.1...v2.33.2) (2022-08-07)
+
+## [2.33.1](https://github.com/revanced/revanced-patches/compare/v2.33.0...v2.33.1) (2022-08-07)
+
+
+### Bug Fixes
+
+* spoof `X-Android-Cert` of Firebase `authToken` api request ([#315](https://github.com/revanced/revanced-patches/issues/315)) ([c81d61f](https://github.com/revanced/revanced-patches/commit/c81d61f685449590473fa5205e7709f81872a9b9))
+
+# [2.33.0](https://github.com/revanced/revanced-patches/compare/v2.32.1...v2.33.0) (2022-08-06)
+
+
+### Features
+
+* bump music patches to 5.17.51 ([#307](https://github.com/revanced/revanced-patches/issues/307)) ([c303589](https://github.com/revanced/revanced-patches/commit/c303589bd8d1956ce2e3c4c285d45a648b5db30f))
+
 ## [2.32.1](https://github.com/revanced/revanced-patches/compare/v2.32.0...v2.32.1) (2022-08-04)
 
 
